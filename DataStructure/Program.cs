@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-          Complexity.Sample();
+            //Console.WriteLine(NumberConverter.ConvertToBinary(11));
         }
     }
+
+    
 }
