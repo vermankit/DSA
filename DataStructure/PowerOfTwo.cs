@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataStructure
 {
-    internal class PowerOfTwocs
+    internal class PowerOfTwo
     {
         public bool IsPowerOfTwo(int n)
         {
